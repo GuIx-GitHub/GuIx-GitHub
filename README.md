@@ -25,8 +25,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuIx-GitHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuIx-GitHub&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuIx-GitHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_bust=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuIx-GitHub&layout=compact&theme=tokyonight&cache_bust=true" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
   <a href="mailto:jcottentin6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com/users/TON_ID_DISCORD">
+  <a href="https://discord.com/users/741431851603722320">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/GuIx-GitHub">
