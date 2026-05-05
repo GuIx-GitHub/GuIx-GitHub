@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/GuIx-GitHub?label=Follow&style=social" alt="Follow">
 </p>
 
-> **Passionate Full-Stack Developer** since a young age. I thrive on understanding complex systems and building clean, efficient, and scalable software across multiple languages.
+> **Passionate Full-Stack Developer & Game Creator** since a young age. I thrive on understanding complex systems, creating immersive experiences, and building clean, efficient software across multiple domains.
 
 ---
 
@@ -18,8 +18,8 @@
 #### ⚙️ System & Backend
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-#### 📱 Mobile & Others
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+#### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=flat-square&logo=unrealengine&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-8D2A3F?style=flat-square&logo=aseprite&logoColor=white)
 
 #### 🎨 Creative Suite
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-EA77FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![Substance 3D](https://img.shields.io/badge/Substance_3D-FF1F1F?style=flat-square&logo=adobe&logoColor=white)
@@ -36,7 +36,7 @@
 ---
 
 ### 🛠️ Favorite Tools
-* **IDE:** VS Code, Visual Studio, JetBrains Suite
+* **IDE:** VS Code, Visual Studio, Unity Editor
 * **Version Control:** Git & GitHub
 * **OS:** Windows / Linux (WSL2)
 
