@@ -46,4 +46,4 @@ Over time, that curiosity turned into a real passion. I like building things, un
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=GuIx-GitHub\&show_icons=true\&theme=tokyonight)
