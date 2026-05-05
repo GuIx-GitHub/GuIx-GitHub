@@ -28,6 +28,22 @@ Over time, that curiosity turned into a real passion. I like building things, un
 
 ---
 
+### 🛠️ Tools & Software
+
+![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge\&logo=adobephotoshop)
+![Substance 3D](https://img.shields.io/badge/Substance_3D-red?style=for-the-badge\&logo=adobe)
+![Audition](https://img.shields.io/badge/Audition-purple?style=for-the-badge\&logo=adobeaudition)
+![After Effects](https://img.shields.io/badge/After_Effects-darkblue?style=for-the-badge\&logo=adobeaftereffects)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-purple?style=for-the-badge\&logo=adobepremierepro)
+
+---
+
+### 💻 IDE
+
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge\&logo=visualstudiocode)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME\&show_icons=true\&theme=tokyonight)
