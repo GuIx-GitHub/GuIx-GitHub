@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**GuIx-GitHub/GuIx-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
-Here are some ideas to get you started:
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
